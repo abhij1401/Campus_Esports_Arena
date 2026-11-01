@@ -1,0 +1,5 @@
+/home/abhi/Abhi/126202249/module 3/cpp/Campus_Esports_Arena_Qt6_Project/CampusEsportsArena/build/CMakeFiles/CampusEsportsArena.dir
+/home/abhi/Abhi/126202249/module 3/cpp/Campus_Esports_Arena_Qt6_Project/CampusEsportsArena/build/CMakeFiles/edit_cache.dir
+/home/abhi/Abhi/126202249/module 3/cpp/Campus_Esports_Arena_Qt6_Project/CampusEsportsArena/build/CMakeFiles/rebuild_cache.dir
+/home/abhi/Abhi/126202249/module 3/cpp/Campus_Esports_Arena_Qt6_Project/CampusEsportsArena/build/CMakeFiles/CampusEsportsArena_autogen_timestamp_deps.dir
+/home/abhi/Abhi/126202249/module 3/cpp/Campus_Esports_Arena_Qt6_Project/CampusEsportsArena/build/CMakeFiles/CampusEsportsArena_autogen.dir

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+5a42f2d2e08853cee2f1ec88859914f2 CMakeFiles/CampusEsportsArena_autogen
+5a42f2d2e08853cee2f1ec88859914f2 CMakeFiles/CampusEsportsArena_autogen_timestamp_deps
+974af7ee36409b764a76c274221cc3b4 CampusEsportsArena_autogen/timestamp
